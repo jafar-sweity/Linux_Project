@@ -1,0 +1,11 @@
+[Unit]
+Description=Collect Kernel Logs Service
+
+[Service]
+Type=simple
+ExecStart=/home/jafar/collect_kernel_logs.sh
+User=jafar
+WorkingDirectory=/home/jafar
+[Install]
+WantedBy=default.target
+
