@@ -14,3 +14,7 @@ The Linux kernel generates logs for various events that occur in the kernel spac
 - Compression of collected logs using the bzip2 algorithm.
 - Seamless upload of compressed log files to a Dropbox folder.
 - Integration with systemd timers for scheduled execution.
+
+## Dropbox link
+- https://www.dropbox.com/home/logsProject
+- 
